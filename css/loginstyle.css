@@ -1,0 +1,38 @@
+
+.nav-bar{
+    position: sticky;
+}
+li{
+    font-weight: 600;
+}
+.logo{
+   margin-left: 50px;
+   
+}
+.login-form-1{
+    margin-right: 100px;
+    vertical-align: middle;
+    padding: 9%;
+    background: black;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+
+}
+.btnSubmit{
+color:black;
+font-weight: 600;
+}
+.login-form-1 h3{
+    text-align: left;
+    margin-bottom:12%;
+}
+.form-group{
+    width:10cm;
+}
+
+footer{
+    margin-top:70px;
+    margin-bottom: 0cm;
+}
+.copyright{
+    text-align: center;
+}
